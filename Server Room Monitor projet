@@ -1,0 +1,18 @@
+# 🌡️ Server Room Monitor – Projet personnel
+
+Système de surveillance des températures et humidité dans une salle serveur.
+
+## 📌 Objectif
+- Lire les données de capteurs
+- Afficher les données en temps réel
+- Déclencher alertes si dépassement
+
+## 🧰 Stack technique
+- Node.js, Express
+- MongoDB, Mongoose
+- Socket.io
+
+## 🧠 Ce que j’ai appris
+- Intégration capteurs ↔ back-end
+- Temps réel avec Socket.io
+- Sauvegarde de mesures en base NoSQL
