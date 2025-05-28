@@ -1,0 +1,17 @@
+# 📇 Contact Manager – Projet Orange Cameroun
+
+Application web développée chez **Orange Cameroun** (2022).
+
+## 📌 Objectif
+Gérer une liste de contacts avec :
+- Création
+- Modification
+- Suppression
+
+## 🧰 Stack technique
+- HTML, CSS, JavaScript vanilla
+
+## 🧠 Ce que j’ai appris
+- Manipulation du DOM
+- Persistance des données (localStorage)
+- Interactions utilisateur simples
