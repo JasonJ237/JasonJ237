@@ -1,0 +1,20 @@
+# 🎉 Event Manager – Projet MTN Cameroun
+
+Projet réalisé lors de mon apprentissage chez **MTN Cameroun** (2023).
+
+## 📌 Objectif
+Créer une application web de gestion d’événements :
+- Création d’événements
+- Inscriptions
+- Suivi des participants
+
+## 🧰 Stack technique
+- Front-End : Angular
+- Back-End : Node.js
+- Base de données : MongoDB
+- Communication temps réel : Socket.io
+
+## 🧠 Ce que j’ai appris
+- Architecture full-stack
+- Gestion des utilisateurs
+- Intégration Angular ↔ Node.js
